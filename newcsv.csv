@@ -1,0 +1,7 @@
+name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
+Maria Terzieva,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",FALSE,Chief Executive Officer ,1,,
+Sven Verbraeken,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,2,1,
+Orlin Bukovski,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,3,1,
+Savo Cenkov,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,4,3,
+Milva Georgieva,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,5,3,
+Galina Ivanova,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,CTO ,6,1,
